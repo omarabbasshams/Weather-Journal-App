@@ -6,7 +6,7 @@ Journal App take user information zip code and user feeling , get wethear data f
 
 ## Installation
 
-        clone source of code from https://github.com/omarabbasshams/landing-page
+        clone source of code from https://github.com/omarabbasshams/Weather-Journal-App.git
         
 ## How to Contribute
 
